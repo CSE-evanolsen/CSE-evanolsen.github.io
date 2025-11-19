@@ -4,15 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Resume</title>
-  <link rel="stylesheet" href="table_res_style.css" >
+  <link rel="stylesheet" href="res.css" >
   </head>
 <body>
   <table>
     <!-- Header Section -->
     <tr>
       <td colspan="2">
-        <h1>John Doe</h1>
-        <p>Email: john.doe@example.com | Phone: (123) 456-7890 | Location: New York, NY</p>
+        <h1>Evan Olsen</h1>
+        <p>Email: notmyrealemail@example.com | Location: Columbia, SC</p>
         <hr>
       </td>
     </tr>
@@ -21,9 +21,9 @@
     <tr>
       <td width="25%"><h2>Education</h2></td>
       <td>
-        <strong>University of Example</strong><br>
-        B.S. in Computer Science, 2020<br>
-        Graduated with Honors
+        <strong>University of South Carolina</strong><br>
+        Computer Engineering.<br>
+        Graduation Date: 2029
       </td>
     </tr>
 
@@ -31,17 +31,15 @@
     <tr>
       <td><h2>Work Experience</h2></td>
       <td>
-        <strong>Software Engineer</strong>, TechCorp Inc. (2021–Present)<br>
+        <strong>Line Cook</strong>, The Big E of Gaffney (2021–2025)<br>
         <ul>
-          <li>Developed and maintained web applications using JavaScript and Python.</li>
-          <li>Collaborated with a cross-functional team to deliver high-quality software on time.</li>
-          <li>Improved application performance by 25% through code optimization.</li>
+          <li>Cooked food and handle making pizzas/fryers. </li>
+          <li>Was a team lead and was over kitchen.</li>
         </ul>
 
-        <strong>Intern Developer</strong>, WebStart LLC (2019–2020)<br>
+        <strong>Assistant Cook</strong>, Blue Moon Specialty Foods (May 2025–August 2025)<br>
         <ul>
-          <li>Assisted in building front-end interfaces using HTML, CSS, and JavaScript.</li>
-          <li>Participated in daily agile meetings and contributed to sprint planning.</li>
+          <li>Helped my dad cook food and served it aswell.</li>
         </ul>
       </td>
     </tr>
@@ -51,9 +49,9 @@
       <td><h2>Skills</h2></td>
       <td>
         <ul>
-          <li>Programming: JavaScript, Python, C++</li>
-          <li>Web: HTML5, CSS3, React, Node.js</li>
-          <li>Tools: Git, Docker, AWS</li>
+          <li>Collaboration: Can work with people and work as a team.</li>
+          <li>Leadership: Can be a leader and step up when needed.</li>
+          <li>Communication: I can communicate with poeple well and can elaborate when asked.</li>
         </ul>
       </td>
     </tr>
