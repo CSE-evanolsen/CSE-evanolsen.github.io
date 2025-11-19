@@ -31,7 +31,7 @@
     <tr>
       <td><h2>Work Experience</h2></td>
       <td>
-        <strong>Line Cook</strong>, The Big E of Gaffney (2021–2025)<br>
+        <strong>Line Cook</strong>, The Big E of Gaffney (December 2021–August 2025)<br>
         <ul>
           <li>Cooked food and handle making pizzas/fryers. </li>
           <li>Was a team lead and was over kitchen.</li>
